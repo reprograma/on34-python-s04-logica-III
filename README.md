@@ -35,8 +35,8 @@ O que veremos na aula de hoje?
    * [Subtópico 2](#subtopico2)
    
 ### Loops
-1. [While](#topico6)
-2. [For](#topico7)
+1. [Loop While](#topico6)
+2. [Loop For](#topico7)
 
 ### Iteração 
 
@@ -49,8 +49,9 @@ Serão apresentados alguns exemplos onde a iteração é utilizada.
 ### Estrutura de Dados
 #### Listas
 * [Definição](#subtopico1)
+  Iremos entender o que são listas, sua sintaxe no python
 * [Funções](#Subtopico2)
-Iremos entender o que são listas, sua sintaxe no python e explorar algumas funções nas listas.
+  Iremos explorar algumas funções das listas.
 
 ##### Tuplas
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
@@ -59,8 +60,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempu
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
 
 ### Loops
-#### Topico4
+#### Loop While
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Mauris pharetra dui quis turpis rutrum blandit. Nunc tempor libero tortor, ac commodo erat porttitor ut. Donec vitae orci arcu. Nunc felis mi, maximus a turpis a, mollis pulvinar enim. Vivamus aliquam ante dui, a blandit massa rutrum et. Etiam hendrerit gravida ultrices.
+#### Loop For
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Mauris pharetra dui quis turpis rutrum blandit. Nunc tempor libero tortor, ac commodo erat porttitor ut. Donec vitae orci arcu. Nunc felis mi, maximus a turpis a, mollis pulvinar enim. Vivamus aliquam ante dui, a blandit massa rutrum et. Etiam hendrerit gravida ultrices.
+
 
 ***
 ### Exercícios 
