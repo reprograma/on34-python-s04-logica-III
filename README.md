@@ -21,12 +21,12 @@ O que veremos na aula de hoje?
 
 ## Conteúdo
 ### Iteração 
-1. [Tópico 1](#topico1)
-2. [Tópico 2](#topico2)
+1. [O que é iteração?](#topico1)
+2. [Exemplos](#topico2)
 ### Estrutura de Dados 
 1. [Listas](#topico3)
-   * [Subtópico 1](#subtopico1)
-   * [Subtópico 2](#subtopico2)
+   * [Definição](#subtopico1)
+   * [Funções](#subtopico2)
 2. [Tuplas](#topico4)
    * [Subtópico 1](#subtopico1)
    * [Subtópico 2](#subtopico2)
@@ -40,27 +40,22 @@ O que veremos na aula de hoje?
 
 ### Iteração 
 
-#### Topico1
+#### O que é iteração?
+Iremos entender o que significado de iteração e porque é importante na programação.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Mauris pharetra dui quis turpis rutrum blandit. Nunc tempor libero tortor, ac commodo erat porttitor ut. Donec vitae orci arcu. Nunc felis mi, maximus a turpis a, mollis pulvinar enim. Vivamus aliquam ante dui, a blandit massa rutrum et. Etiam hendrerit gravida ultrices. Nunc ante massa, dictum eget justo eget, feugiat tincidunt metus.
-
- #### Topico2
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  - Donec erat mauris, laoreet in tortor vel
-  - Nunc ante massa, dictum eget justo eget, feugiat tincidunt.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Mauris pharetra dui quis turpis rutrum blandit.
+#### Exemplos
+Serão apresentados alguns exemplos onde a iteração é utilizada.
 
 ### Estrutura de Dados
-#### Topico3
-* [Subtópico 1](#subtopico1)
-* [Subtópico 2](#Subtopico2)
+#### Listas
+* [Definição](#subtopico1)
+* [Funções](#Subtopico2)
+Iremos entender o que são listas, sua sintaxe no python e explorar algumas funções nas listas.
+
+##### Tuplas
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
 
-##### Subtopico1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
-
-##### Subtopico2
+##### Dicionários
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
 
 ### Loops
