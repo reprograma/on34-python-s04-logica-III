@@ -15,23 +15,30 @@ Antes de começar, vamos organizar nosso setup.
 
 ### Resumo
 O que veremos na aula de hoje?
-* [Tema1](#tema1)
-* [Tema2](#tema2)
-* [Tema3](#tema3)
+* [Iteração](#tema1)
+* [Estruturas de Dados](#tema2)
+* [Loops](#tema3)
 
 ## Conteúdo
-### Tema1 
+### Iteração 
 1. [Tópico 1](#topico1)
 2. [Tópico 2](#topico2)
-### Tema2 
-1. [Tópico 3](#topico3)
+### Estrutura de Dados 
+1. [Listas](#topico3)
+   * [Subtópico 1](#subtopico1)
+   * [Subtópico 2](#subtopico2)
+2. [Tuplas](#topico4)
+   * [Subtópico 1](#subtopico1)
+   * [Subtópico 2](#subtopico2)
+3. [Dicionários](#topico5)
    * [Subtópico 1](#subtopico1)
    * [Subtópico 2](#subtopico2)
    
-### Tema3
-1. [Tópico 4](#topico4)
+### Loops
+1. [While](#topico6)
+2. [For](#topico7)
 
-### Tema1 
+### Iteração 
 
 #### Topico1
 
@@ -44,7 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempu
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Mauris pharetra dui quis turpis rutrum blandit.
 
-### Tema2
+### Estrutura de Dados
 #### Topico3
 * [Subtópico 1](#subtopico1)
 * [Subtópico 2](#Subtopico2)
@@ -56,7 +63,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempu
 ##### Subtopico2
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
 
-### Tema3
+### Loops
 #### Topico4
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Mauris pharetra dui quis turpis rutrum blandit. Nunc tempor libero tortor, ac commodo erat porttitor ut. Donec vitae orci arcu. Nunc felis mi, maximus a turpis a, mollis pulvinar enim. Vivamus aliquam ante dui, a blandit massa rutrum et. Etiam hendrerit gravida ultrices.
 
