@@ -39,20 +39,20 @@ O que veremos na aula de hoje?
    * [Exemplos](#subtopico2)
    
 ### Loops
-1. [Loop While](#topico6)
-2. [Loop For](#topico7)
-3. [List Comprehension](#topico8)
+1. [Loop While](#topico7)
+2. [Loop For](#topico8)
+3. [List Comprehension](#topico9)
 
 ### <a name="tema1"></a> Iteração 
 
 #### <a name="topico1"></a> O que é iteração?
 Iremos entender o que significado de iteração e porque é importante na programação.
 
-#### Exemplos
+#### <a name="topico2"></a> Exemplos
 Serão apresentados alguns exemplos onde a iteração é utilizada.
 
-### Estrutura de Dados
-#### Listas
+### <a name="tema2"></a> Estrutura de Dados
+#### <a name="topico3"></a> Listas
 * [Definição](#subtopico1)
   Iremos entender o que são listas, sua sintaxe no python
 * [Funções](#Subtopico2)
@@ -60,32 +60,32 @@ Serão apresentados alguns exemplos onde a iteração é utilizada.
 * [Strings como listas]
   Iremos entender como trabalhar com strings como se fossem listas
 
-##### Tuplas
+##### <a name="topico4"></a> Tuplas
 * [Definição](#subtopico1)
   Iremos entender o que são tuplas e sua sintaxe no python
 * [Exemplos](#Subtopico2)
   Iremos fazer alguns exemplos para entender mais sobre as tuplas.
 
-##### Conjuntos
+##### <a name="topico5"></a> Conjuntos
 * [Definição](#subtopico1)
   Iremos entender o que são conjuntos e sua sintaxe no python
 * [Exemplos](#Subtopico2)
   Iremos fazer alguns exemplos para entender mais sobre conjuntos.
   
-##### Dicionários
+##### <a name="topico6"></a> Dicionários
 * [Definição](#subtopico1)
   Iremos entender o que são dicionários e sua sintaxe no python
 * [Exemplos](#Subtopico2)
   Iremos fazer alguns exemplos para entender mais sobre dicionários.
   
 ### Loops
-#### Loop While
+#### <a name="topico7"></a> Loop While
 Entenderemos como usar o while e sua sintaxe, depois iremos ver como funciona na prática.
 
-#### Loop For
+#### <a name="topico8"></a> Loop For
 Entenderemos como usar o for e sua sintaxe, depois iremos ver como funciona na prática.
 
-#### List Comprehension
+#### <a name="topico9"></a> List Comprehension
 Entenderemos como usar o for e sua sintaxe, depois iremos ver como funciona na prática.
 
 
