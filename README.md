@@ -25,18 +25,18 @@ O que veremos na aula de hoje?
 2. [Exemplos](#topico2)
 ### Estrutura de Dados 
 1. [Listas](#topico3)
-   * [Definição](#subtopico1)
-   * [Funções](#subtopico2)
-   * [Strings como listas](#subtopico3)
+   * [Definição](#topico3)
+   * [Funções](#topico3)
+   * [Strings como listas](#topico3)
 2. [Tuplas](#topico4)
-   * [Definição](#subtopico4)
-   * [Exemplos](#subtopico5)
+   * [Definição](#topico4)
+   * [Exemplos](#topico4)
 3. [Conjuntos](#topico5)
-   * [Definição](#subtopico6)
-   * [Exemplos](#subtopico7)
+   * [Definição](#topico5)
+   * [Exemplos](#topico5)
 4. [Dicionários](#topico6)
-   * [Definição](#subtopico8)
-   * [Exemplos](#subtopico9)
+   * [Definição](#topico6)
+   * [Exemplos](#topico6)
    
 ### Loops
 1. [Loop While](#topico7)
@@ -53,17 +53,17 @@ Serão apresentados alguns exemplos onde a iteração é utilizada.
 
 ### <a name="tema2"></a> Estrutura de Dados
 #### <a name="topico3"></a> Listas
-* <a name="subtopico1"></a> [Definição]
+* <a name="topico3"></a> [Definição]
   Iremos entender o que são listas, sua sintaxe no python
-* <a name="subtopico2"></a>[Funções]
+* <a name="topico3"></a>[Funções]
   Iremos explorar algumas funções das listas.
-* <a name="subtopico3"></a>[Strings como listas]
+* <a name="topico3">Strings como listas</a>
   Iremos entender como trabalhar com strings como se fossem listas
 
 ##### <a name="topico4"></a> Tuplas
-* [Definição](#subtopico1)
+* [Definição](#topico4)
   Iremos entender o que são tuplas e sua sintaxe no python
-* [Exemplos](#Subtopico2)
+* [Exemplos](#topico4)
   Iremos fazer alguns exemplos para entender mais sobre as tuplas.
 
 ##### <a name="topico5"></a> Conjuntos
