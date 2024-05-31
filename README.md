@@ -27,16 +27,21 @@ O que veremos na aula de hoje?
 1. [Listas](#topico3)
    * [Definição](#subtopico1)
    * [Funções](#subtopico2)
+   * [Strings como listas](#subtopico3)
 2. [Tuplas](#topico4)
-   * [Subtópico 1](#subtopico1)
-   * [Subtópico 2](#subtopico2)
-3. [Dicionários](#topico5)
-   * [Subtópico 1](#subtopico1)
-   * [Subtópico 2](#subtopico2)
+   * [Definição](#subtopico1)
+   * [Exemplos](#subtopico2)
+3. [Conjuntos](#topico5)
+   * [Definição](#subtopico1)
+   * [Exemplos](#subtopico2)
+4. [Dicionários](#topico6)
+   * [Definição](#subtopico1)
+   * [Exemplos](#subtopico2)
    
 ### Loops
 1. [Loop While](#topico6)
 2. [Loop For](#topico7)
+3. [List Comprehension](#topico8)
 
 ### Iteração 
 
@@ -52,21 +57,38 @@ Serão apresentados alguns exemplos onde a iteração é utilizada.
   Iremos entender o que são listas, sua sintaxe no python
 * [Funções](#Subtopico2)
   Iremos explorar algumas funções das listas.
+* [Strings como listas]
+  Iremos entender como trabalhar com strings como se fossem listas
 
 ##### Tuplas
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
+* [Definição](#subtopico1)
+  Iremos entender o que são tuplas e sua sintaxe no python
+* [Exemplos](#Subtopico2)
+  Iremos fazer alguns exemplos para entender mais sobre as tuplas.
 
+##### Conjuntos
+* [Definição](#subtopico1)
+  Iremos entender o que são conjuntos e sua sintaxe no python
+* [Exemplos](#Subtopico2)
+  Iremos fazer alguns exemplos para entender mais sobre conjuntos.
+  
 ##### Dicionários
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
-
+* [Definição](#subtopico1)
+  Iremos entender o que são dicionários e sua sintaxe no python
+* [Exemplos](#Subtopico2)
+  Iremos fazer alguns exemplos para entender mais sobre dicionários.
+  
 ### Loops
 #### Loop While
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Mauris pharetra dui quis turpis rutrum blandit. Nunc tempor libero tortor, ac commodo erat porttitor ut. Donec vitae orci arcu. Nunc felis mi, maximus a turpis a, mollis pulvinar enim. Vivamus aliquam ante dui, a blandit massa rutrum et. Etiam hendrerit gravida ultrices.
+Entenderemos como usar o while e sua sintaxe, depois iremos ver como funciona na prática.
+
 #### Loop For
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Mauris pharetra dui quis turpis rutrum blandit. Nunc tempor libero tortor, ac commodo erat porttitor ut. Donec vitae orci arcu. Nunc felis mi, maximus a turpis a, mollis pulvinar enim. Vivamus aliquam ante dui, a blandit massa rutrum et. Etiam hendrerit gravida ultrices.
+Entenderemos como usar o for e sua sintaxe, depois iremos ver como funciona na prática.
+
+#### List Comprehension
+Entenderemos como usar o for e sua sintaxe, depois iremos ver como funciona na prática.
 
 
-***
 ### Exercícios 
 * [Exercicio para sala](https://github.com/mflilian/repo-example/tree/main/exercicios/para-sala)
 * [Exercicio para casa](https://github.com/mflilian/repo-example/tree/main/exercicios/para-casa)
