@@ -29,14 +29,14 @@ O que veremos na aula de hoje?
    * [Funções](#subtopico2)
    * [Strings como listas](#subtopico3)
 2. [Tuplas](#topico4)
-   * [Definição](#subtopico1)
-   * [Exemplos](#subtopico2)
+   * [Definição](#subtopico4)
+   * [Exemplos](#subtopico5)
 3. [Conjuntos](#topico5)
-   * [Definição](#subtopico1)
-   * [Exemplos](#subtopico2)
+   * [Definição](#subtopico6)
+   * [Exemplos](#subtopico7)
 4. [Dicionários](#topico6)
-   * [Definição](#subtopico1)
-   * [Exemplos](#subtopico2)
+   * [Definição](#subtopico8)
+   * [Exemplos](#subtopico9)
    
 ### Loops
 1. [Loop While](#topico7)
@@ -53,11 +53,11 @@ Serão apresentados alguns exemplos onde a iteração é utilizada.
 
 ### <a name="tema2"></a> Estrutura de Dados
 #### <a name="topico3"></a> Listas
-* [Definição](#subtopico1)
+* <a name="subtopico1"></a> [Definição]
   Iremos entender o que são listas, sua sintaxe no python
-* [Funções](#Subtopico2)
+* <a name="subtopico2"></a>[Funções]
   Iremos explorar algumas funções das listas.
-* [Strings como listas]
+* <a name="subtopico3"></a>[Strings como listas]
   Iremos entender como trabalhar com strings como se fossem listas
 
 ##### <a name="topico4"></a> Tuplas
