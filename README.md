@@ -53,32 +53,32 @@ Serão apresentados alguns exemplos onde a iteração é utilizada.
 
 ### <a name="tema2"></a> Estrutura de Dados
 #### <a name="topico3"></a> Listas
-* <a name="topico3"></a> [Definição]
+* <a name="topico3">Definição</a>
   Iremos entender o que são listas, sua sintaxe no python
-* <a name="topico3"></a>[Funções]
+* <a name="topico3">Funções</a>
   Iremos explorar algumas funções das listas.
 * <a name="topico3">Strings como listas</a>
   Iremos entender como trabalhar com strings como se fossem listas
 
 ##### <a name="topico4"></a> Tuplas
-* [Definição](#topico4)
+* <a name="topico4">Definição</a>
   Iremos entender o que são tuplas e sua sintaxe no python
-* [Exemplos](#topico4)
+* <a name="topico4">Exemplos</a>
   Iremos fazer alguns exemplos para entender mais sobre as tuplas.
 
 ##### <a name="topico5"></a> Conjuntos
-* [Definição](#subtopico1)
+* <a name="topico5">Definição</a>
   Iremos entender o que são conjuntos e sua sintaxe no python
-* [Exemplos](#Subtopico2)
+* <a name="topico5">Exemplos</a>
   Iremos fazer alguns exemplos para entender mais sobre conjuntos.
   
 ##### <a name="topico6"></a> Dicionários
-* [Definição](#subtopico1)
+* <a name="topico6">Definição</a>
   Iremos entender o que são dicionários e sua sintaxe no python
-* [Exemplos](#Subtopico2)
+* <a name="topico6">Exemplos</a>
   Iremos fazer alguns exemplos para entender mais sobre dicionários.
   
-### Loops
+### <a name="tema3"></a> Loops
 #### <a name="topico7"></a> Loop While
 Entenderemos como usar o while e sua sintaxe, depois iremos ver como funciona na prática.
 
