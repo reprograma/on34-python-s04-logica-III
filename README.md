@@ -20,7 +20,7 @@ O que veremos na aula de hoje?
 * [Loops](#tema3)
 
 ## Conteúdo
-### Iteração 
+### Iteração
 1. [O que é iteração?](#topico1)
 2. [Exemplos](#topico2)
 ### Estrutura de Dados 
@@ -43,9 +43,9 @@ O que veremos na aula de hoje?
 2. [Loop For](#topico7)
 3. [List Comprehension](#topico8)
 
-### Iteração 
+### <a name="tema1"></a> Iteração 
 
-#### O que é iteração?
+#### <a name="topico1"></a> O que é iteração?
 Iremos entender o que significado de iteração e porque é importante na programação.
 
 #### Exemplos
