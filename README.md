@@ -94,12 +94,10 @@ Entenderemos como usar o for e sua sintaxe, depois iremos ver como funciona na p
 * [Exercicio para casa](https://github.com/mflilian/repo-example/tree/main/exercicios/para-casa)
 
 ### Material da aula 
+* [Material da aula](https://github.com/mflilian/repo-example/tree/main/exercicios/para-sala)
 
 ### Links Úteis
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
+- [Documentação - Estrutura de Dados](https://docs.python.org/pt-br/3/tutorial/datastructures.html)
 
 
 <p align="center">
