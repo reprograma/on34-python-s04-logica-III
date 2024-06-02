@@ -1,11 +1,15 @@
 # Exercício de Sala 🏫  
 
-## Nome do Exercicio
+## Gerador de trocos
 
-- Explicação do exercício: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci.
-Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. 
----
+Iremos criar um gerador de trocos:
+
+- O cliente compra um produto que tem um valor X
+- O cliente paga com uma nota de valor Y
+
+Nós teremos uma quantidade de notas no nosso caixa e iremos ver quantas notas de cada uma iremos entregar para o cliente, para formar o troco.
+
+*A quantidade de notas já está definida no exercício.
 
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
 
