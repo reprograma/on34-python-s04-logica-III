@@ -90,8 +90,8 @@ Entenderemos como usar o for e sua sintaxe, depois iremos ver como funciona na p
 
 
 ### Exercícios 
-* [Exercicio para sala](https://github.com/mflilian/repo-example/tree/main/exercicios/para-sala)
-* [Exercicio para casa](https://github.com/mflilian/repo-example/tree/main/exercicios/para-casa)
+* [Exercicio para sala](https://github.com/reprograma/on34-python-s04-logica-III/tree/main/exercicios/para-sala)
+* [Exercicio para casa](https://github.com/reprograma/on34-python-s04-logica-III/tree/main/exercicios/para-casa) 
 
 ### Material da aula 
 * [Material da aula](https://github.com/mflilian/repo-example/tree/main/exercicios/para-sala)
