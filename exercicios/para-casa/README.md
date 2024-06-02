@@ -1,11 +1,12 @@
 # Exercício de Casa 🏠 
 
-## Nome do Exercicio
+## Qual o assunto do texto?
 
-- Explicação do exercício: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci.
-Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. 
----
+Teremos alguns textos e queremos descobrir qual deles fala sobre leis.
+
+Para isso iremos contar a quantidade de vezes que a palavra “lei” ocorre em cada um deles, o que tiver mais ocorrências dessa palavra será o escolhido.
+
+Já temos os textos no arquivo DescobreTexto.py.
 
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
 
