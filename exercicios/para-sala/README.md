@@ -11,6 +11,8 @@ Nós teremos uma quantidade de notas no nosso caixa e iremos ver quantas notas d
 
 *A quantidade de notas já está definida no exercício.
 
+Abrir o arquivo Troco.py, nele já terão as funções que deverão ser criadas por vocês.
+
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
 
 - [ ] Fiz o fork do repositório.
