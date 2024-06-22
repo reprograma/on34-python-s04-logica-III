@@ -7,6 +7,9 @@ def main():
     
     textos = [texto1, texto2, texto3, texto4]
 
+    def texto_contem = (texto, palavra):   
+    if textos
+
     """Quero buscar o texto sobre direito, para isso quero saber quantas vezes 
     aparece a palavra "lei" em cada texto."""
 
