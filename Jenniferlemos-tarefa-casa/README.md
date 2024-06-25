@@ -11,7 +11,7 @@ Utilize os seguintes conceitos aprendidos em sala de aula:
 - Estruturas de repetição (for, while)
 - Listas, tuplas, dicionários e conjuntos, bem como suas funções
 
-## Resultado
+## Resultado esperado:
 
 Na resposta, deverá ser impresso qual dos textos foi escolhido, a palavra "lei".
 
