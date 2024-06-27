@@ -1,0 +1,18 @@
+Descobre texto
+
+" O exercício compara 4 textos e solicita que, aquele que repetir mais vezes a palavra "lei", 
+seja identificado e seja exibido como o texto de maior repetição"
+
+Então, dispondo os texto como texto1, texto2, texto3 e texto4, criei uma lista_textos,array, para iniciar a função.
+
+A função "texto_lei', percorrerá um texto de cada vez localizando a palavra 'lei', comparando o texto em letra minúscula.
+Quando localizada, é adicionado um contator para somar a quantidade de vezes que a palavra é repetida
+ao final e verificado o maior número de vezes que cada texto repetiu a palavra.
+
+Por fim será exibido em tela, o print do texto de maior repetição
+
+
+Márcia Reginato Guilloux
+
+
+
