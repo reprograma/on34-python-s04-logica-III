@@ -25,7 +25,7 @@ def main():
         # Faz um for na lista de palavras
         for palavra in palavras:
             # Compara cada palavra com a palavra 'lei'
-            if palavra == 'lei':
+            if palavra.lower() == 'lei':
                 # Soma 1 na chave do dicionário contador que é igual ao índice de texto na lista textos cada vez que a palavra atual for 'lei'
                 contador[textos.index(texto)] += 1
     # Pega a chave ( que é igual ao índice que será escolhido ) que possui o maior valor 
