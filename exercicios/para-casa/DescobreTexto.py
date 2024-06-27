@@ -5,15 +5,17 @@ def main():
     texto3 = "Na linha do tempo do futebol feminino brasileiro, ele passou tanto tempo proibido quanto regulamentado: 38 anos. De 1941 a 1979, a lei nacional não permitia a prática do esporte por mulheres devido às “condições da sua natureza”. Já o regulamento da modalidade, que permanece válido até 2021, só foi feito em 1983. "
     texto4 = "A lei dos cossenos é uma expressão matemática que relaciona os três lados de um triângulo qualquer. Por não estar restrita ao triângulo retângulo, a lei dos cossenos pode ser entendida como uma generalização do teorema de Pitágoras."
     
+
     textos = [texto1, texto2, texto3, texto4]
+    quantidade_lei=0
+    qualtexto ="" 
 
-    """Quero buscar o texto sobre direito, para isso quero saber quantas vezes 
-    aparece a palavra "lei" em cada texto."""
-
-
-
-    """O texto certo será o que contiver mais vezes a palavra lei.
-    Após descobrir qual é o texto certo, imprimi-lo aqui"""
-    #print(texto_escolhido)
-
+    for  texto_lei in textos:  
+        contar=texto_lei.count("lei")
+        if contar>quantidade_lei:
+           qualtexto=texto_lei
+    
+    print("O texto que mais apresenta a palavra lei é o :\n", qualtexto)
+        
 main()
+    
