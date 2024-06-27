@@ -1,5 +1,3 @@
-
-
 def main():
   
   texto1 = "Uma infecção curada de dengue confere ao paciente imunidade contra o tipo de vírus responsável Por existirem quatro tipos diferentes de vírus para estar totalmente imunizado é necessário ter tido contato com todos eles Caso contrário a cada contágio com um novo tipo de vírus os sintomas são mais intensos e o risco de desenvolver a dengue grave é mais alto"
@@ -31,5 +29,6 @@ for maior_quantidade_lei in lista_textos:
  print("texto_escolhido:", (maior_quantidade_lei))
 
 
-
 main()
+
+https://colab.research.google.com/drive/1ba9UDgG_EQ55Q1HtiGw1Hoi1QAWVuIM7?usp=sharing
