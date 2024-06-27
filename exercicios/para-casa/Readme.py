@@ -65,7 +65,7 @@
 • Achei bem desafiador esse exercício.🔥 
 • O resultado foi muito legal, foi muito emocionante ver o código rodar, porém próximo do que eu almejava, visto que ao rodar o código a resposta se repetia.
 •
-• O código foi todo desenvolvido pela plataforma do Colab e se encontra na pasta por mim criada Link do Colab.
+• O código foi todo desenvolvido pela plataforma do Colab e se encontra na pasta Código Colab.
 •  
 • Adorei ❤️ 
 • Feito com ❤️ por Luana Paes
