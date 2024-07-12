@@ -6,10 +6,26 @@ def main():
     texto4 = "A lei dos cossenos é uma expressão matemática que relaciona os três lados de um triângulo qualquer. Por não estar restrita ao triângulo retângulo, a lei dos cossenos pode ser entendida como uma generalização do teorema de Pitágoras."
     
     textos = [texto1, texto2, texto3, texto4]
+    lista_contagem = []
+    
 
     """Quero buscar o texto sobre direito, para isso quero saber quantas vezes 
     aparece a palavra "lei" em cada texto."""
 
+    for texto in textos:
+        texto = texto.split(" ")
+        contador = 0
+        for palavra in texto:
+            if palavra == "lei":
+                contador = contador + 1
+        lista_contagem.append(contador)
+    print("A palavara lei aparece {} vezes no texto 1".format(lista_contagem[0]))          
+    print("A palavara lei aparece {} vezes no texto 2".format(lista_contagem[1]))  
+    print("A palavara lei aparece {} vezes no texto 3".format(lista_contagem[2]))  
+    print("A palavara lei aparece {} vezes no texto 4".format(lista_contagem[3]))  
+
+
+    
 
 
     """O texto certo será o que contiver mais vezes a palavra lei.
@@ -17,3 +33,8 @@ def main():
     #print(texto_escolhido)
 
 main()
+
+
+
+
+
