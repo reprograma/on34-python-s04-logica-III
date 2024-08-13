@@ -7,13 +7,23 @@ def main():
     
     textos = [texto1, texto2, texto3, texto4]
 
-    """Quero buscar o texto sobre direito, para isso quero saber quantas vezes 
-    aparece a palavra "lei" em cada texto."""
+    nomes_textos = ["Texto 1", "Texto 2", "Texto 3", "Texto 4"]
 
+    contagem_leis = []
 
+    # Contar as ocorrências da palavra "lei" em cada texto
+    for texto in textos:
+        count = texto.lower().count("lei")
+        contagem_leis.append(count)
 
-    """O texto certo será o que contiver mais vezes a palavra lei.
-    Após descobrir qual é o texto certo, imprimi-lo aqui"""
-    #print(texto_escolhido)
+    # Encontrar o índice do texto com mais ocorrências
+    max_ocorrencias = max(contagem_leis)
+    indice_texto_escolhido = contagem_leis.index(max_ocorrencias)
 
+    # Imprimir o texto escolhido
+    texto_escolhido = textos[indice_texto_escolhido]
+    print(f"O texto escolhido é o {nomes_textos[indice_texto_escolhido]}.")
+    print(f"Conteúdo do texto escolhido:\n{texto_escolhido}")
+
+    
 main()
